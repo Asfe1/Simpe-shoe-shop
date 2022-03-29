@@ -1,0 +1,20 @@
+#cart{
+    background-color: #121313;
+    height: 700px;
+    position: sticky;
+    top:0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: white;
+   
+}
+#heading{
+    font-size: 25px;
+    padding: 20px 0;
+    margin-top: 0;
+    background-color: rgb(88, 6, 6);
+    color: white;
+    
+    border-top-left-radius: 5px;
+
+}
